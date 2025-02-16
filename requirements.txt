@@ -1,0 +1,5 @@
+requests 
+python-dotenv
+tweepy
+beautifulsoup4
+datetime
